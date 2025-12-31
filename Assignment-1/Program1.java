@@ -54,7 +54,7 @@ class DataProcessor {
     }
 }
 
-public class Main {
+public class Program1 {
     public static void main(String[] args) {
         DataProcessor processor = new DataProcessor();
         
